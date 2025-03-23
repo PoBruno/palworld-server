@@ -1,0 +1,5 @@
+.env
+palworld/*
+!palworld/Pal/Saved/*
+!palworld/backups/*
+
